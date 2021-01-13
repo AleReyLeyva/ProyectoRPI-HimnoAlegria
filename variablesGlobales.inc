@@ -1,0 +1,35 @@
+/* frecuencias */
+
+.set LA, 1136     @ Retardo para nota La = A
+.set SI, 1012
+.set DO, 1803
+.set RE, 1702
+.set SOL, 1275
+
+.set DOH, 956    @ Retardo para nota DoH = cH 
+.set REH, 851
+
+.set SILEN, 555  @silencio
+
+/* duraciones */
+
+.set NG,  500000
+.set CORP,  375000
+.set COR,    250000
+.set FUS,   125000
+.set BL, 1000000
+
+
+/* leds */
+
+.set LED1, 0b0000000000000000001000000000
+.set LED2, 0b0000000000000000010000000000
+.set LED3, 0b0000000000000000100000000000
+.set LED4, 0b0000000000100000000000000000
+.set LED5, 0b0000010000000000000000000000
+.set LED6, 0b1000000000000000000000000000
+
+
+
+
+
