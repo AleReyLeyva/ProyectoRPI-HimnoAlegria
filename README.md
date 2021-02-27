@@ -5,9 +5,9 @@
 #### Raspberry PI 3B+
 
 ### Patrones LEDs:
-* MODO1 (Botón 1): Encendido secuencial de los leds, uno a uno, hasta que
+* **MODO1 (Botón 1)**: Encendido secuencial de los leds, uno a uno, hasta que
 se encienden todos. Después se apagan y vuelve el encendido secuencial.
-* MODO2 (Botón 2): Encendido aleatorio de los leds, simulando a un piano que está
+* **MODO2 (Botón 2)**: Encendido aleatorio de los leds, simulando a un piano que está
 tocando la partitura.
 
 ### Estructura Principal del Proyecto:
